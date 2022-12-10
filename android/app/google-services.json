@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "7619393875",
+    "project_id": "taxini-a258f",
+    "storage_bucket": "taxini-a258f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7619393875:android:0eb1279f091d85d27209a6",
+        "android_client_info": {
+          "package_name": "com.example.mapbox_navigation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7619393875-p8orqvtdq2pisj61lmp5crs63kn4h31s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq9uSpiZYYrI6i2eGQDwv_gCkqBuCjcDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7619393875-p8orqvtdq2pisj61lmp5crs63kn4h31s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
